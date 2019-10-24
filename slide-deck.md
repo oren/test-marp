@@ -1,6 +1,4 @@
-# Build a Chatbot Tutorial!!!
-
-By Oren Golan, Tech Evangelist, AWS
+# Build a Chatbot Tutorial
 
 ---
 
