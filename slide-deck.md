@@ -1,5 +1,7 @@
 # Build a Chatbot Tutorial
 
+![kitty](kitty.jpg)
+
 ---
 
 # Goals
